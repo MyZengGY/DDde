@@ -24,6 +24,6 @@ textView.setText("儿子你哈皮");
 
     @OnClick(R.id.textView)
     public void onClick() {
-        Toast.makeText(this, "ssss", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "sssssss", Toast.LENGTH_SHORT).show();
     }
 }
